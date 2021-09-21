@@ -88,7 +88,7 @@ const features = [
         <li>{feature}</li>
       ))}
 </ul>
-<button className="buy">Buy</button>
+<button className="buy">Button</button>
     </div>
 
   )
